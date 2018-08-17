@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wisdoms Project</string>
+    <string name="type_your_password">Type Your Password</string>
+    <string name="enter_your_name">Enter Your Name</string>
+</resources>
